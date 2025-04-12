@@ -1,0 +1,14 @@
+.loader {
+    border-width: 4px;
+    border-style: solid;
+    border-color: transparent;
+    border-top-color: #3b82f6; /* Tailwind's blue-500 */
+    border-bottom-color: #3b82f6; /* Tailwind's blue-500 */
+  }
+  @media print {
+    .no-print {
+      display: none;
+    }
+  }
+  
+  
